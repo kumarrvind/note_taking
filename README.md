@@ -1,2 +1,2 @@
-# note_taking
+# note_taking_app
 Created with CodeSandbox
